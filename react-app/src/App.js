@@ -2,7 +2,7 @@ import Jsx from "./components/Jsx";
 import MyComponent from "./components/MyComponent";
 
 function App() {
-  const name = "리액트123";
+  const name = "리액트1234";
   return (
     <MyComponent name={name} name2="React2">
       안녕하세요
